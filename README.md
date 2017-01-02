@@ -4,7 +4,7 @@ This is a simple web project for showing how Git and GitHub work
 
 ##Introduction
 
-Hi Mom
+Hi Mom Hi Dad!
 
 ##Description
 
